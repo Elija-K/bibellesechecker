@@ -2,8 +2,6 @@
 
 ## Altes Testament
 
-### Die Geschichte Gottes mit seinem Volk
-
 1. Mose (Genesis)           = 50
 
 2. Mose (Exodus)            = 40
